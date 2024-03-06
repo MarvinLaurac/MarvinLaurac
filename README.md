@@ -8,7 +8,7 @@ J'ai pris la décision d'investir en moi, de me former continuellement, quitte �
 PYTHON | SQL (langage de requêtes structurées) | MACHINE LEARNING (apprentissage
 automatique) | STATISTIQUES | API (interface de programmation d’application) | MLOps
 
-# bibliothèque / framework que je maîtrise
+#### bibliothèque / framework que je maîtrise
 Numpy | Pandas | Matplotlib | Seaborn | PySpark | Bokeh | Text Mining
 Webscraping | Keras | Airflow
 
